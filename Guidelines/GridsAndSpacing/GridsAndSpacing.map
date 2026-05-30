@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "GridsAndSpacing.scss",
+        "../../../_var.scss"
+    ],
+    "names": [],
+    "file": "GridsAndSpacing.css"
+}

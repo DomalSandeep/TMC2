@@ -1,0 +1,1 @@
+export {default as GamificationDesign} from './GamificationDesign';

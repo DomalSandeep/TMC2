@@ -1,0 +1,27 @@
+.maincover-section {
+  padding: 40px 0;
+  background: linear-gradient(175deg, #F5CB62 0%, #FFFFFF 104.5%);
+  min-height: 100vh;
+}
+
+.maincover-section h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 8.0rem;
+  font-weight: 300;
+  padding: 120px 0px 20px 0px;
+}
+
+.maincover-section .title {
+  font-family: "Inter", sans-serif;
+  font-size: 4.8rem;
+  font-weight: 900;
+  padding-top: 5px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
+.maincover-section .title a {
+  color: #333333;
+  line-height: 70px;
+}
+/*# sourceMappingURL=Cover.css.map */

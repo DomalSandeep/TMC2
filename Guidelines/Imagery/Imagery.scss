@@ -1,0 +1,50 @@
+@import "../../../var";
+
+.ImageryContent {
+  .example-images-grid {
+    margin-top: 40px;
+
+    h2 {
+      margin-bottom: 24px;
+    }
+
+    .example-images {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      background: #F3F3F3;
+        border-radius: 16px;
+        padding: 16px;
+
+      > div {
+        display: flex;
+        gap: 10px;
+        
+
+        img {
+          width: calc(33.33% - 7px);
+          height: auto;
+          object-fit: cover;
+        }
+      }
+
+      > div:nth-child(2) {
+        img {
+          width: 100%;
+        }
+      }
+
+      > div:nth-child(3) {
+        img {
+          width: calc(50% - 5px);
+        }
+      }
+
+      > div:nth-child(4) {
+        img {
+          width: calc(33.33% - 7px);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAGQ,kBAHU,CACd,cAAc,AAET,MAAM,CAAA;EACH,UAAU,EAAE,IAAI;CACnB;;AALT,AAOQ,kBAPU,CACd,cAAc,CAMV,EAAE,CAAA;EACE,SAAS,ECwEd,MAAM;EDvED,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "Navigation.scss",
+        "../../../_var.scss"
+    ],
+    "names": [],
+    "file": "Navigation.css"
+}

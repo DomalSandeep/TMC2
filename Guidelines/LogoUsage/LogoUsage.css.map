@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEI,UAFM,CAEN,OAAO,CAAA;EACH,cAAc,EAAE,IAAI;CACvB;;AAJL,AAMI,UANM,CAMN,CAAC,CAAA;EACG,OAAO,EAAE,iBAAiB;EAC1B,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "LogoUsage.scss"
+    ],
+    "names": [],
+    "file": "LogoUsage.css"
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "GamificationDesign.scss",
+        "../../../_var.scss"
+    ],
+    "names": [],
+    "file": "GamificationDesign.css"
+}

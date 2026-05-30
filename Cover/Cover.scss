@@ -1,0 +1,41 @@
+@import '../../var';
+
+.maincover-section{
+    padding: 40px 0;
+    background: $lightblue;
+    min-height: 100vh;
+  
+    h1{
+        font-family: $DM_Sans;
+        font-size: 24px;
+        font-weight: 400;
+        // padding: 120px 0px 20px 0px;
+        line-height: 100%;
+
+    }
+    h2{
+        font-family: $Playfair-Display;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 100%;
+        margin-top: 12px;
+    }
+   .cover-title {
+    background: $gradient-gold-navy;
+    padding: 42px 60px;
+    color: white;
+}
+    .title{
+        font-family: $Inter;
+        font-size: $fs-48;
+        font-weight: 900;
+        padding-top: 5px;
+        padding-left: 10px;
+        text-transform: uppercase;
+  
+        a{
+          color: #333333;
+          line-height: 70px;
+        }
+    }
+  }

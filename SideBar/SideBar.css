@@ -1,0 +1,59 @@
+.Sidebar {
+  background: #FEF9E8;
+  height: 100%;
+  width: 280px;
+  overflow: auto;
+  position: fixed;
+  top: 0;
+  z-index: 999999;
+  padding-top: 125px;
+}
+
+.Sidebar .logo {
+  padding: 20px;
+  position: fixed;
+  top: 0px;
+  width: 275px;
+  background: #FEF9E8;
+}
+
+.Sidebar ul.links a {
+  color: #333333;
+}
+
+.Sidebar ul.links a.active {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.Sidebar ul.links > li {
+  padding: 20px 25px;
+  text-transform: uppercase;
+  font-weight: 500;
+  border-top: solid 1px #F6CB62;
+}
+
+.Sidebar ul.links > li ul {
+  padding: 15px 0px 0px 15px;
+  text-transform: initial;
+}
+
+.Sidebar ul.links > li ul li {
+  padding-bottom: 10px;
+}
+
+.Sidebar ul.links > li ul li a {
+  text-transform: capitalize;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.Sidebar ul.links > li ul li a span:first-child {
+  padding-right: 5px;
+}
+
+.Sidebar ul.links > li ul li:last-child {
+  padding-bottom: 0px;
+}
+/*# sourceMappingURL=SideBar.css.map */

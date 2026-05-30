@@ -1,0 +1,259 @@
+[
+    {
+      "id": 1,
+      "name": "Guidelines",
+      "url": "guidelines",
+      "childrens": [
+        
+        
+        {
+          "title": "1. Palettes",
+          "link": "palettes"
+        },
+        {
+          "title": "2. Typography",
+          "link": "typography"
+        },
+        {
+          "title": "3. Tone Of Voice",
+          "link": "tone-of-voice"
+        },
+        {
+          "title": "4. Imagery",
+          "link": "imagery"
+        },
+        {
+          "title": "5. Navigation",
+          "link": "navigation"
+        },
+        {
+          "title": "6. Responsive design",
+          "link": "responsive-design"
+        },
+        {
+          "title": "7. Grids and Spacing",
+          "link": "grids-and-spacing"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Core Page Types",
+      "url": "core-page-type",
+      "childrens": [
+        {
+          "title": "1. Home page",
+          "link": "home-page"
+        },
+        {
+          "title": "2. Section landing page",
+          "link": "section-landing-page"
+        },
+        {
+          "title": "3.1 Text With Media Page",
+          "link": "text-with-media-page"
+        },
+        {
+          "title": "3.2 Card List Page",
+          "link": "card-list"
+        },
+        {
+          "title": "3.3 Card List With Media Page",
+          "link": "card-list-with-media-page"
+        },
+        {
+          "title": "3.4 Accordion List Page",
+          "link": "accordion-list-page"
+        },
+        {
+            "title": "4. Table Pages",
+            "link": "table-pages"
+        },
+        {
+            "title": "5. Grid Of Cards",
+            "link": "grid-of-cards"
+        },
+        {
+            "title": "6. Forms",
+            "link": "forms"
+        },
+        {
+            "title": "7. Preview Page",
+            "link": "preview-page"
+        },
+        {
+            "title": "8. Success Page",
+            "link": "success-page"
+        },
+        {
+            "title": "9. Interstitial Page",
+            "link": "choose-interstitial-page"
+        },
+        {
+            "title": "10. Search Results",
+            "link": "search-results"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Core Components",
+      "url": "core-components",
+      "childrens": [
+        {
+          "title": "1. Accordion",
+          "link": "accordion"
+        },
+        {
+          "title": "2. Banners",
+          "link": "banners"
+        },
+        {
+          "title": "3. Buttons",
+          "link": "buttons"
+        },
+        {
+          "title": "4. Bento",
+          "link": "bento-grid"
+        },
+        {
+          "title": "5. Carousels",
+          "link": "carousel"
+        },
+        {
+          "title": "6. Cards",
+          "link": "cards"
+        },
+
+        {
+          "title": "7. Content block - text",
+                    "link": "content-block-text"
+        },
+
+        {
+          "title": "8. Checkbox",
+          "link": "checkbox"
+        },
+
+        {
+          "title": "9. Dividers",
+                    "link": "dividers"
+        },
+        {
+          "title": "10. Editorial Scroll Stack",
+          "link": "editorial-scroll-stack"
+        },
+
+        {
+          "title": "11. Footers",
+          "link": "footer"
+        },
+        {
+          "title": "12. Global Navigation",
+          "link": "global"
+        },
+
+        {
+          "title": "13. Hero banners",
+          "link": "hero-banner"
+        },
+        {
+          "title": "14. Icons",
+          "link": "icons"
+        },
+        {
+          "title": "15. Text Feilds",
+          "link": "text-input"
+        },
+        {
+          "title": "16. Information Panel",
+          "link": "information-panel "
+        },
+        {
+          "title": "17. Links",
+          "link": "links"
+        },
+        {
+          "title": "18. Page header",
+          "link": "page-headers"
+        },
+        {
+          "title": "19. Pills",
+          "link": "pills"
+        },
+        {
+          "title": "20. Quick Access Panel",
+          "link": "quick-access-panel"
+        },
+        {
+          "title": "21. Related links Panel",
+          "link": "related-links-panel"
+        },
+        {
+          "title": "22. Radio Buttons",
+          "link": "radio-button"
+        },
+        {
+          "title": "23. Search bar",
+          "link": "search"
+        },
+        {
+          "title": "24. Success popup ",
+          "link": "mega-menu"
+        },
+        {
+          "title": "25. Tabs",
+          "link": "tabs"
+        },
+        {
+          "title": "25. Tables",
+          "link": "table"
+        },
+        {
+          "title": "27. Video for patient support centre",
+          "link": "video-for-patient-support-centre"
+        },
+        {
+          "title": "28. Wizard",
+          "link": "Wizard"
+        },
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+       
+        
+       
+        
+        
+        
+        
+        
+       
+        
+        
+        
+        
+        
+        {
+          "title": "28. Text area",
+          "link": "text-area"
+        },
+        
+        {
+          "title": "30. Tooltips",
+          "link": "tooltip"
+        }
+      ]
+    }
+  ]  

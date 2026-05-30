@@ -1,0 +1,121 @@
+// Fonts
+$Inter: 'Inter', sans-serif;
+$Roboto: 'Roboto', sans-serif;
+// for TMC (font)
+$DM-Sans: 'DM Sans', sans-serif;
+
+$Playfair-Display: 'Playfair Display', serif;
+
+
+
+
+// Primary Colors
+$orange-yellow:#F6CB62;
+$indian-yellow:#ECA55A;
+$white:#FFFFFF;
+$gray:#808080;
+$dark-charcoal:#333333;
+$oldSilver:#828282;
+$darkLiver:#000;
+$raisinBlack:#222222;
+$lightblue:#E6F0FF;
+
+// Secondary Colors
+$gainsboro:#DDDDDD;
+$cosmic-latte:#FEF9E8;
+$blanched-almond:#FFF0CD;
+$banana-mania:#FBE5B1;
+$apricot:#F6D2AD;
+$baby-pink:#F1C4BA;
+
+// State Colors
+$BleuDeFrance:#2F80ED;
+$Green:#27AE60;
+$MeatBrown:#E2B93B;
+$FireOpal:#EB5757;
+
+
+// Palette Variation 1
+// Primary Colors
+$MellowApricot:#F9B874;
+
+// Secondary Colors
+$PeachPuff:#FFDCB8;
+$AliceBlue:#F1F9F9;
+$BrightGray:#E3F2F3;
+$Gainsboro:#D0E5E6;
+$Crystal:#B1D3D6;
+
+// Gradient
+$gredient_Crystal:linear-gradient(9.08deg, #B1D3D6 1.99%, rgba(208, 229, 230, 0.25) 93.82%);
+$gradient_orange:linear-gradient(175deg, #F5CB62 0%, #FFFFFF 104.5%);
+// for TMC (gradient)
+$gradient-gold-navy:linear-gradient(90deg, #0F2D52 39%, #C6A85E 125%);
+
+// Palette Variation 2
+// Primary Colors
+$queenBlue:#3B649F;
+
+// Secondary Colors
+$periwinkle:#C4D2E4;
+$lightSteelBlue:#B1C2D9;
+$ceil:#88A1C4;
+
+// Gradient
+$dropshadow_1:drop-shadow(0px 4.93233px 15px rgba(0, 0, 0, 0.15));
+$gradient_Periwinkle:linear-gradient(9.08deg, #C4D2E4 1.99%, rgba(255, 247, 227, 0.7) 93.82%);
+
+// Palette Variation 3
+// Primary Colors
+$cyberYellow:#FCD200;
+$taupeGray:#85888B;
+
+// Secondary Colors
+$cosmicLatte:#FEFAE3;
+$lemonChiffon:#FFF7CC;
+$lemonYellow:#FFEF9E;
+$yellow:#FFE97D;
+
+// Gradient
+$gredient_BananaMania:linear-gradient(9.08deg, #FEF2B3 1.99%, rgba(255, 247, 227, 0.7) 93.82%);
+
+
+// font-size
+$fs-08:0.8rem;
+$fs-10:1rem;
+$fs-12:1.2rem;
+$fs-14:1.4rem;
+$fs-16:1.6rem;
+$fs-18:1.8rem;
+$fs-20:2rem;
+$fs-22:2.2rem;
+$fs-24:2.4rem;
+$fs-26:2.6rem;
+$fs-28:2.8rem;
+$fs-30:3rem;
+$fs-36:3.6rem;
+$fs-40:4rem;
+$fs-50:5rem;
+$fs-48:4.8rem;
+$fs-56:5.6rem;
+$fs-60:6rem;
+$fs-80:8rem;
+
+// font-weight
+$fw-thin:100;
+$fw-extra-light:200;
+$fw-light:300;
+$fw-regular:400;
+$fw-medium :500;
+$fw-semi-bold:600;
+$fw-bold:700;
+$fw-extra-bold:800;
+$fw-black:900;
+
+//spacing utilities
+.pt-40 { padding-top: 30px; }
+.py-40 { padding-top: 40px; padding-bottom: 40px; }
+.py-28 { padding-top: 28px; padding-bottom: 28px; }
+.pt-28 { padding-top: 28px; }
+.pt-24 { padding-top: 24px; }
+.mrg-0 { margin: 0 !important; }
